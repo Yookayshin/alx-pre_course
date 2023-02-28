@@ -1,2 +1,2 @@
 My first readme
-It was hecktic activity
+was hecktic activity
